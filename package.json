@@ -1,7 +1,7 @@
 {
   "name": "megahack-desafio-inovativa",
   "version": "1.0.0",
-  "description": "Desafio inovAtiva no MegaHack 5.0",
+  "description": "Desafio Inovativa no MegaHack 5.0",
   "main": "src/index.js",
   "repository": "https://github.com/pedrosancao/megahack5-desafio-inovativa",
   "author": "Pedro Sanção <pedrosancao@users.noreply.github.com>",

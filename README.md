@@ -1,46 +1,44 @@
-# Getting Started with Create React App
+# MegaHack 5.0 Desafio Inovativa
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Logo MegaHack - Desafio Inovativa](public/megahack5-header.png)
 
-## Available Scripts
+Projeto para o [MegaHack 5.0](https://www.megahack.com.br/) realizado entre 09
+e 15 de novembro de 2020. 
 
-In the project directory, you can run:
+## O que é o Mega Hack
 
-### `yarn start`
+O maior hackathon on-line do Brasil não poderia carregar outro nome, senão: MEGA!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Grande não apenas por quebrar barreiras geográficas, mas também pela dimensão da
+jornada que proporciona aos seus participantes. O Mega Hack é o Monte Everest dos
+hackathons, e é preciso preparo para chegar ao topo.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## O desafio
 
-### `yarn test`
+Como auxiliar o Programa Inovativa Brasil a chegar em mais pessoas, de diferentes
+regiões do país, interiorizando assim o acesso à inovação e conhecimento?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Nos seguintes pilares:
+- Como aumentar o relacionamento e engajamento online de comunidades locais em
+  diferentes estágios de maturidade?
+- Como otimizar a gestão e estratégia para plataformas colaborativas de conteúdo?
+- Como fomentar de forma prática ecossistemas incipientes sem cultura de
+  empreendedorismo disseminada?
+- Como fomentar mentores/as e investidores/as fora dos grandes centros?
+- Como regionalizar conteúdos e ações nacionais?
 
-### `yarn build`
+## A solução
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Transformar a jornada de preparação para aceleração com a Inovativa em uma
+experiência agradável e lúdica. Apresentando uma lista de desafios que devem ser
+superados usando elementos gráficos de gamificação e oferecendo recursos/materiais
+para auxiliar em cada etapa.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Solução desenvolvida com [ReactJs](https://reactjs.org/).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Executando o projeto
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+yarn install
+yarn start
+```
