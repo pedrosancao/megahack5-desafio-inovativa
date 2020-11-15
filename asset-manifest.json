@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/megahack5-desafio-inovativa/static/js/main.e98abcdf.chunk.js",
+    "main.js.map": "/megahack5-desafio-inovativa/static/js/main.e98abcdf.chunk.js.map",
+    "runtime-main.js": "/megahack5-desafio-inovativa/static/js/runtime-main.6f34cda9.js",
+    "runtime-main.js.map": "/megahack5-desafio-inovativa/static/js/runtime-main.6f34cda9.js.map",
+    "static/js/2.60354e8b.chunk.js": "/megahack5-desafio-inovativa/static/js/2.60354e8b.chunk.js",
+    "static/js/2.60354e8b.chunk.js.map": "/megahack5-desafio-inovativa/static/js/2.60354e8b.chunk.js.map",
+    "index.html": "/megahack5-desafio-inovativa/index.html",
+    "static/js/2.60354e8b.chunk.js.LICENSE.txt": "/megahack5-desafio-inovativa/static/js/2.60354e8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f34cda9.js",
+    "static/js/2.60354e8b.chunk.js",
+    "static/js/main.e98abcdf.chunk.js"
+  ]
+}
