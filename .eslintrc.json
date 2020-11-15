@@ -24,6 +24,7 @@
     ],
     "rules": {
       "@typescript-eslint/no-use-before-define": ["error"],
+      "@typescript-eslint/no-unused-vars": ["error", { "argsIgnorePattern": "_" }],
       "no-use-before-define": "off",
       "import/prefer-default-export": "off",
       "import/extensions": [
@@ -34,8 +35,14 @@
           "tsx": "never"
         }
       ],
+      "no-unused-vars": "off",
       "prettier/prettier": "error",
-      "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }]
+      "react/jsx-props-no-spreading": ["error", { "custom": "ignore" }],
+      "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
+      "react/jsx-one-expression-per-line": ["off"],
+      "react/jsx-wrap-multilines": ["error", { "declaration": false, "assignment": false }],
+      "react/no-danger": ["off"],
+      "react/require-default-props": ["error", { "ignoreFunctionalComponents": true }]
     },
     "settings": {
       "import/resolver": {
