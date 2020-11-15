@@ -4,6 +4,7 @@
   "description": "Desafio Inovativa no MegaHack 5.0",
   "main": "src/index.js",
   "repository": "https://github.com/pedrosancao/megahack5-desafio-inovativa",
+  "homepage": "https://sancao.com.br/megahack5-desafio-inovativa/",
   "author": "Pedro Sanção <pedrosancao@users.noreply.github.com>",
   "license": "MIT",
   "private": false,
